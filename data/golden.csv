@@ -1,0 +1,151 @@
+id,text,intent,escalate,reference_reply
+golden-001,My iPhone battery is draining quickly,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-002,My iPhone battery is draining quickly please,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-003,My iPhone battery is draining quickly today,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-004,My iPhone battery is draining quickly urgently,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-005,My iPhone battery is draining quickly after the update,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-006,My iPhone battery is draining quickly,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-007,My iPhone battery is draining quickly please,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-008,My iPhone battery is draining quickly today,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-009,My iPhone battery is draining quickly urgently,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-010,My iPhone battery is draining quickly after the update,battery_or_performance,0,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM."
+golden-011,I was charged twice for an App Store purchase,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-012,I was charged twice for an App Store purchase please,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-013,I was charged twice for an App Store purchase today,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-014,I was charged twice for an App Store purchase urgently,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-015,I was charged twice for an App Store purchase after the update,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-016,I was charged twice for an App Store purchase,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-017,I was charged twice for an App Store purchase please,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-018,I was charged twice for an App Store purchase today,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-019,I was charged twice for an App Store purchase urgently,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-020,I was charged twice for an App Store purchase after the update,purchase_or_duplicate_charge,1,We can look into duplicate charges in a private message. Please send the order details via DM.
+golden-021,My AirPods will not connect to my iPhone,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-022,My AirPods will not connect to my iPhone please,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-023,My AirPods will not connect to my iPhone today,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-024,My AirPods will not connect to my iPhone urgently,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-025,My AirPods will not connect to my iPhone after the update,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-026,My AirPods will not connect to my iPhone,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-027,My AirPods will not connect to my iPhone please,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-028,My AirPods will not connect to my iPhone today,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-029,My AirPods will not connect to my iPhone urgently,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-030,My AirPods will not connect to my iPhone after the update,device_or_accessory_setup,0,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help."
+golden-031,My account is locked after too many attempts,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-032,My account is locked after too many attempts please,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-033,My account is locked after too many attempts today,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-034,My account is locked after too many attempts urgently,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-035,My account is locked after too many attempts after the update,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-036,My account is locked after too many attempts,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-037,My account is locked after too many attempts please,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-038,My account is locked after too many attempts today,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-039,My account is locked after too many attempts urgently,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-040,My account is locked after too many attempts after the update,account_access,0,Account recovery is available at iforgot.apple.com. Please do not share your password here.
+golden-041,My order has not arrived and tracking stopped updating,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-042,My order has not arrived and tracking stopped updating please,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-043,My order has not arrived and tracking stopped updating today,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-044,My order has not arrived and tracking stopped updating urgently,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-045,My order has not arrived and tracking stopped updating after the update,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-046,My order has not arrived and tracking stopped updating,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-047,My order has not arrived and tracking stopped updating please,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-048,My order has not arrived and tracking stopped updating today,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-049,My order has not arrived and tracking stopped updating urgently,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-050,My order has not arrived and tracking stopped updating after the update,order_or_delivery,1,Please send the order number in a DM so we can check the delivery status.
+golden-051,The screen on my iPhone is cracked,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-052,The screen on my iPhone is cracked please,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-053,The screen on my iPhone is cracked today,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-054,The screen on my iPhone is cracked urgently,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-055,The screen on my iPhone is cracked after the update,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-056,The screen on my iPhone is cracked,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-057,The screen on my iPhone is cracked please,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-058,The screen on my iPhone is cracked today,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-059,The screen on my iPhone is cracked urgently,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-060,The screen on my iPhone is cracked after the update,repair_or_damage,1,Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.
+golden-061,Apple Pay was declined when I tried to pay,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-062,Apple Pay was declined when I tried to pay please,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-063,Apple Pay was declined when I tried to pay today,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-064,Apple Pay was declined when I tried to pay urgently,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-065,Apple Pay was declined when I tried to pay after the update,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-066,Apple Pay was declined when I tried to pay,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-067,Apple Pay was declined when I tried to pay please,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-068,Apple Pay was declined when I tried to pay today,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-069,Apple Pay was declined when I tried to pay urgently,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-070,Apple Pay was declined when I tried to pay after the update,payments,1,"Check that your billing address and card details are current, then contact your bank if the issue continues."
+golden-071,My iCloud storage is full,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-072,My iCloud storage is full please,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-073,My iCloud storage is full today,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-074,My iCloud storage is full urgently,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-075,My iCloud storage is full after the update,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-076,My iCloud storage is full,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-077,My iCloud storage is full please,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-078,My iCloud storage is full today,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-079,My iCloud storage is full urgently,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-080,My iCloud storage is full after the update,storage_or_cloud,0,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed."
+golden-081,Where is my trade-in credit?,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-082,Where is my trade-in credit? please,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-083,Where is my trade-in credit? today,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-084,Where is my trade-in credit? urgently,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-085,Where is my trade-in credit? after the update,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-086,Where is my trade-in credit?,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-087,Where is my trade-in credit? please,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-088,Where is my trade-in credit? today,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-089,Where is my trade-in credit? urgently,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-090,Where is my trade-in credit? after the update,trade_in,1,Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.
+golden-091,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-092,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-093,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-094,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-095,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-096,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-097,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-098,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-099,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-100,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-101,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-102,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-103,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-104,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-105,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-106,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-107,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-108,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-109,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-110,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-111,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-112,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-113,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-114,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-115,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-116,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-117,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-118,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-119,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-120,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-121,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-122,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-123,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-124,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-125,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-126,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-127,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-128,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-129,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-130,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-131,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-132,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-133,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-134,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-135,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-136,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-137,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-138,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-139,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-140,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-141,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-142,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-143,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-144,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-145,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-146,I need help with a problem I cannot describe,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-147,I need help with a problem I cannot describe please,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-148,I need help with a problem I cannot describe today,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-149,I need help with a problem I cannot describe urgently,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.
+golden-150,I need help with a problem I cannot describe after the update,other_or_unknown,1,I want to make sure we route this correctly. Please send the product and issue details in a DM.

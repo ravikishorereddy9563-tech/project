@@ -1,0 +1,31 @@
+tweet_id,thread_id,brand,author_role,text,created_at
+1,t1,AppleSupport,customer,"My iPhone battery is draining so fast after the update",2024-01-01
+2,t1,AppleSupport,agent,"Please check Battery Health in Settings > Battery and update iOS. If it continues, contact us by DM.",2024-01-01
+3,t2,AppleSupport,customer,"I was charged twice for the same App Store purchase",2024-01-02
+4,t2,AppleSupport,agent,"We can look into duplicate charges in a private message. Please send the order details via DM.",2024-01-02
+5,t3,AppleSupport,customer,"My AirPods will not connect to my iPhone",2024-01-03
+6,t3,AppleSupport,agent,"Reset the AirPods, make sure Bluetooth is on, and pair them again. DM us if that does not help.",2024-01-03
+7,t4,AppleSupport,customer,"How can I reset my Apple ID password?",2024-01-04
+8,t4,AppleSupport,agent,"You can reset it at iforgot.apple.com. We can help further in DM if needed.",2024-01-04
+9,t5,AppleSupport,customer,"My order has not arrived and tracking stopped updating",2024-01-05
+10,t5,AppleSupport,agent,"Please send the order number in a DM so we can check the delivery status.",2024-01-05
+11,t6,AppleSupport,customer,"I want a refund for an accidental subscription",2024-01-06
+12,t6,AppleSupport,agent,"Request a refund at reportaproblem.apple.com. Eligibility is reviewed there.",2024-01-06
+13,t7,AppleSupport,customer,"The screen on my iPhone is cracked",2024-01-07
+14,t7,AppleSupport,agent,"Repair options and pricing are available at support.apple.com/repair. Please DM if you need help finding a provider.",2024-01-07
+15,t8,AppleSupport,customer,"Apple Pay declined when I tried to pay",2024-01-08
+16,t8,AppleSupport,agent,"Check that your billing address and card details are current, then contact your bank if the issue continues.",2024-01-08
+17,t9,AppleSupport,customer,"Can you help me transfer photos to my new iPhone?",2024-01-09
+18,t9,AppleSupport,agent,"Quick Start or iCloud Photos can transfer your photos. See support.apple.com for the setup steps.",2024-01-09
+19,t10,AppleSupport,customer,"I cannot sign in because I forgot my Apple ID email",2024-01-10
+20,t10,AppleSupport,agent,"Find your Apple ID at iforgot.apple.com using your name and email address.",2024-01-10
+21,t11,AppleSupport,customer,"My MacBook is overheating and shutting down",2024-01-11
+22,t11,AppleSupport,agent,"Keep the vents clear and install the latest macOS update. If it shuts down again, contact service.",2024-01-11
+23,t12,AppleSupport,customer,"Where is my trade-in credit?",2024-01-12
+24,t12,AppleSupport,agent,"Trade-in status can be checked at apple.com/shop/trade-in/status. DM the confirmation number if it is missing.",2024-01-12
+25,t13,AppleSupport,customer,"I need to change the shipping address for my order",2024-01-13
+26,t13,AppleSupport,agent,"Send the order number in a DM and we will check whether the shipping address can still be changed.",2024-01-13
+27,t14,AppleSupport,customer,"My iCloud storage is full",2024-01-14
+28,t14,AppleSupport,agent,"Review large backups and photos in iCloud settings, or choose a larger storage plan if needed.",2024-01-14
+29,t15,AppleSupport,customer,"I was locked out of my account after too many attempts",2024-01-15
+30,t15,AppleSupport,agent,"Account recovery is available at iforgot.apple.com. Please do not share your password here.",2024-01-15
